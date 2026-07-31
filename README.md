@@ -1,11 +1,17 @@
-# Maram Portfolio Submission
+# Maram Portfolio Hub
 
-A lightweight landing page that links to the full online portfolio.
+A lightweight and responsive landing page that provides access to my complete online portfolio.
 
-## Files
-- `index.html`
-- `styles.css`
-- `script.js`
+## Live Website
 
-## Main Portfolio
-https://maram-portfolio.xo.je
+[Open Maram Portfolio Hub](https://maram-portfolio-hub.xo.je)
+
+## Full Portfolio
+
+[View My Complete Portfolio](https://maram-portfolio.xo.je)
+
+## Technologies
+
+- HTML5
+- CSS3
+- JavaScript
